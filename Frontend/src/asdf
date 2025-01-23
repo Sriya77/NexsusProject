@@ -1,0 +1,25 @@
+/* Group 661 */
+
+position: absolute;
+width: 978px;
+height: 299px;
+left: 395px;
+top: 296px;
+
+/* Refernce Link */
+
+position: absolute;
+width: 169px;
+height: 35px;
+left: 420px;
+top: 659px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 35px;
+/* identical to box height, or 140% */
+
+color: #000000;
+

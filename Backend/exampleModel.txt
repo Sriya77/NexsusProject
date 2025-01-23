@@ -1,0 +1,7 @@
+{
+  "id": "1",
+  "title": "What To Gain Concentration",
+  "thumbnail": "https://images.unsplash.com/photo-1521791136064-7986c2920216",
+  "duration": "5:30",
+  "author": "Virton"
+}
